@@ -4,7 +4,8 @@ Personal website of Celina (Shiyu) Wang, served by GitHub Pages at <https://celi
 
 It is a plain static site with no build step:
 
-- `index.html` holds all page content (bio, publications, service).
+- `index.html` holds the main page (bio, publications, service).
+- `astrophotography/index.html` is the astrophotography gallery, styled by `assets/css/astro.css` with images in `assets/astro/`.
 - `assets/css/style.css` holds the styling.
 - `assets/img/` has the profile photo and `assets/pubs/` the paper thumbnails.
 

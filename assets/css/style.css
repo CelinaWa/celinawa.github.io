@@ -141,6 +141,13 @@ h2::after {
 .service-list { list-style: none; padding-bottom: 20px; }
 .service-list li { margin-bottom: 6px; }
 
+.night-sky { max-width: 640px; margin-bottom: 12px; }
+.arrow-link {
+  color: var(--accent); font-weight: 500; text-decoration: none;
+  border-bottom: 1px solid var(--accent-soft);
+}
+.arrow-link:hover { border-bottom-color: var(--accent); }
+
 /* Footer */
 .footer {
   margin-top: 28px; padding: 28px 0 36px;
